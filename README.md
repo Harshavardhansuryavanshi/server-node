@@ -1,2 +1,2 @@
 # server-node
-node js
+node js server side programming language 
